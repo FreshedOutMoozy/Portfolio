@@ -1,5 +1,5 @@
 ## About This Portfolio
-Tell people about your portfolio Sean :)
+This is the Original Portfolio Design which was a test created to help a friend @SeanCodingOnline understand how to code and put this together. From his online Github portfolio today, it seems he has taken what was taught here and applied for other advanced web technologies and languages. :)
 
 [![Build Status](https://travis-ci.org/Dogfalo/materialize.svg?branch=master)](https://travis-ci.org/Dogfalo/materialize)
 [![License](https://poser.pugx.org/clnt/materialize/license)](https://packagist.org/packages/clnt/materialize)
