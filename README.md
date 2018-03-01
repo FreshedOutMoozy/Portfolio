@@ -13,6 +13,6 @@ Created and designed by Google, Material Design is a design language that combin
 
 
 ### License
-FreshedOutMoozy's Portfolio is powered by Bagels, ❤ and LCO(LetsCode.Online) which are is a GNU software licensed under the [GNU General Public License](https://opensource.org/licenses/GPL-3.0)
+hyperSUDO's Portfolio is powered by Bagels, ❤ and LCO(LetsCode.Online) which are is a GNU software licensed under the [GNU General Public License](https://opensource.org/licenses/GPL-3.0)
 
 ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif)
